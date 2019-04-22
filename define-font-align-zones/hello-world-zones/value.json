@@ -1,0 +1,161 @@
+{
+  "type": "define-font-align-zones",
+  "font_id": 1,
+  "csm_table_hint": "medium",
+  "zones": [
+    {
+      "data": [
+        {
+          "origin": 0,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 0
+        }
+      ],
+      "has_x": false,
+      "has_y": false
+    },
+    {
+      "data": [
+        {
+          "origin": 0.477294921875,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 3.326171875
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.2332763671875,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 3.326171875
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.471923828125,
+          "size": 0
+        },
+        {
+          "origin": 1.80078125,
+          "size": 3.326171875
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.47998046875,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 3.326171875
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 1.697265625,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 1.896484375
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.203125,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 1.896484375
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.45751953125,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 1.896484375
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.195556640625,
+          "size": 0
+        },
+        {
+          "origin": 1.67578125,
+          "size": 1.896484375
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0.413818359375,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 1.896484375
+        }
+      ],
+      "has_x": true,
+      "has_y": true
+    },
+    {
+      "data": [
+        {
+          "origin": 0,
+          "size": 0
+        },
+        {
+          "origin": 0,
+          "size": 0
+        }
+      ],
+      "has_x": false,
+      "has_y": false
+    }
+  ]
+}
