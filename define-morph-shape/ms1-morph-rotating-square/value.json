@@ -1,0 +1,128 @@
+{
+  "type": "define-morph-shape",
+  "id": 1,
+  "bounds": {
+    "x_min": -1000,
+    "x_max": 1000,
+    "y_min": -1000,
+    "y_max": 1000
+  },
+  "morph_bounds": {
+    "x_min": -1600,
+    "x_max": 1600,
+    "y_min": -1600,
+    "y_max": 1600
+  },
+  "has_non_scaling_strokes": false,
+  "has_scaling_strokes": false,
+  "shape": {
+    "initial_styles": {
+      "fill": [
+        {
+          "type": "solid",
+          "color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "morph_color": {
+            "r": 0,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          }
+        }
+      ],
+      "line": [
+        {
+          "width": 0,
+          "morph_width": 1200,
+          "start_cap": "round",
+          "end_cap": "round",
+          "join": {
+            "type": "round"
+          },
+          "no_h_scale": false,
+          "no_v_scale": false,
+          "no_close": false,
+          "pixel_hinting": false,
+          "fill": {
+            "type": "solid",
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "morph_color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            }
+          }
+        }
+      ]
+    },
+    "records": [
+      {
+        "type": "style-change",
+        "move_to": {
+          "x": -1000,
+          "y": -1000
+        },
+        "morph_move_to": {
+          "x": 0,
+          "y": -1000
+        },
+        "left_fill": 1,
+        "line_style": 1
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 2000,
+          "y": 0
+        },
+        "morph_delta": {
+          "x": 1000,
+          "y": 1000
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 0,
+          "y": 2000
+        },
+        "morph_delta": {
+          "x": -1000,
+          "y": 1000
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -2000,
+          "y": 0
+        },
+        "morph_delta": {
+          "x": -1000,
+          "y": -1000
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 0,
+          "y": -2000
+        },
+        "morph_delta": {
+          "x": 1000,
+          "y": -1000
+        }
+      }
+    ]
+  }
+}
