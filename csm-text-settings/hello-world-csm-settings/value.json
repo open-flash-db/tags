@@ -1,0 +1,8 @@
+{
+  "type": "csm-text-settings",
+  "text_id": 2,
+  "renderer": "advanced",
+  "fitting": "sub-pixel",
+  "thickness": 0,
+  "sharpness": 0
+}

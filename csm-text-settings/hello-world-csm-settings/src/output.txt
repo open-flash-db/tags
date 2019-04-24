@@ -1,0 +1,9 @@
+# The output is different because the tag uses a short header
+
+8c12                                                        # 74 * 64 + 12
+
+0200                                                        # text_id
+50                                                          # flags(sub-pixel,advanced)
+00000000                                                    # thickness
+00000000                                                    # sharpness
+00                                                          # reserved

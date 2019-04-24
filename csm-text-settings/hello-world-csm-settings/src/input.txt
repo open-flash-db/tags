@@ -1,0 +1,8 @@
+bf12                                                        # 74 * 64 + 63
+0c000000                                                    # 12 = 0x0c
+
+0200                                                        # text_id
+50                                                          # flags(sub-pixel,advanced)
+00000000                                                    # thickness
+00000000                                                    # sharpness
+00                                                          # reserved
