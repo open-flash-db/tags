@@ -1,0 +1,86 @@
+{
+  "type": "define-text",
+  "id": 2,
+  "bounds": {
+    "x_min": 10,
+    "x_max": 3710,
+    "y_min": 78,
+    "y_max": 655
+  },
+  "matrix": {
+    "scale_x": 65536,
+    "scale_y": 65536,
+    "rotate_skew0": 0,
+    "rotate_skew1": 0,
+    "translate_x": 0,
+    "translate_y": 0
+  },
+  "records": [
+    {
+      "font_id": 1,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 255,
+        "a": 255
+      },
+      "offset_x": 0,
+      "offset_y": 540,
+      "font_size": 600,
+      "entries": [
+        {
+          "index": 3,
+          "advance": 433
+        },
+        {
+          "index": 6,
+          "advance": 266
+        },
+        {
+          "index": 7,
+          "advance": 167
+        },
+        {
+          "index": 7,
+          "advance": 167
+        },
+        {
+          "index": 8,
+          "advance": 300
+        },
+        {
+          "index": 2,
+          "advance": 150
+        },
+        {
+          "index": 0,
+          "advance": 139
+        },
+        {
+          "index": 4,
+          "advance": 518
+        },
+        {
+          "index": 8,
+          "advance": 300
+        },
+        {
+          "index": 9,
+          "advance": 200
+        },
+        {
+          "index": 7,
+          "advance": 167
+        },
+        {
+          "index": 5,
+          "advance": 300
+        },
+        {
+          "index": 1,
+          "advance": 200
+        }
+      ]
+    }
+  ]
+}
