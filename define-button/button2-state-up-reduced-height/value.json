@@ -1,0 +1,64 @@
+{
+  "type": "define-button",
+  "id": 3756,
+  "track_as_menu": false,
+  "characters": [
+    {
+      "state_up": true,
+      "state_over": false,
+      "state_down": false,
+      "state_hit_test": false,
+      "character_id": 3755,
+      "depth": 1,
+      "matrix": {
+        "scale_x": 65536,
+        "scale_y": 23475,
+        "rotate_skew0": 0,
+        "rotate_skew1": 0,
+        "translate_x": 0,
+        "translate_y": 0
+      },
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": 0,
+        "green_add": 0,
+        "blue_add": 0,
+        "alpha_add": 0
+      },
+      "filters": [],
+      "blend_mode": "normal"
+    },
+    {
+      "state_up": false,
+      "state_over": true,
+      "state_down": true,
+      "state_hit_test": true,
+      "character_id": 3755,
+      "depth": 1,
+      "matrix": {
+        "scale_x": 65536,
+        "scale_y": 65536,
+        "rotate_skew0": 0,
+        "rotate_skew1": 0,
+        "translate_x": 0,
+        "translate_y": 0
+      },
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": 0,
+        "green_add": 0,
+        "blue_add": 0,
+        "alpha_add": 0
+      },
+      "filters": [],
+      "blend_mode": "normal"
+    }
+  ],
+  "actions": []
+}

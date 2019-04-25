@@ -1,0 +1,25 @@
+# The output is different because the tag uses a short header.
+# The color transforms are also using a shorter bit count.
+
+9908                                                        # 34 * 64 + 25 = 0x0899
+
+ac0e                                                        # id (3756 = 0x0eac)
+00                                                          # flags
+0000                                                        # action_offset
+[                                                           # characters
+  {
+    01                                                      # flags(state_up)
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    c9000016ecc0                                            # matrix
+    00                                                      # color_transform
+  }
+  {
+    0e                                                      # flags
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    00                                                      # matrix
+    00                                                      # color_transform
+  }
+  00
+]

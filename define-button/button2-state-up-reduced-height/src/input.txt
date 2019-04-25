@@ -1,0 +1,23 @@
+bf08                                                        # 34 * 64 + 63 = 0x08bf
+19000000                                                    # 25 = 0x00000019
+
+ac0e                                                        # id (3756 = 0x0eac)
+00                                                          # flags
+0000                                                        # action_offset
+[                                                           # characters
+  {
+    01                                                      # flags(state_up)
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    c9000016ecc0                                            # matrix
+    04                                                      # color_transform
+  }
+  {
+    0e                                                      # flags
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    00                                                      # matrix
+    04                                                      # color_transform
+  }
+  00
+]
