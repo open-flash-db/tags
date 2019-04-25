@@ -1,0 +1,20 @@
+# The output is different because the tag uses a short header.
+
+6309                                                        # 37 * 64 + 35 = 0x0963
+
+fc0e                                                        # id(3936 = 0x0efc)
+614b3117ec0810                                              # bounds
+8d30                                                        # flags(has_font,has_color,readonly,has_text,no_select,has_layout)
+# 0x308d
+# 0011000010001101
+
+dd0e                                                        # font_id(3805 = 0x0edd)
+b400                                                        # font_size(180 = 0x00b4)
+ffffffff                                                    # color
+02                                                          # text_alignment
+0000                                                        # margin_left
+0000                                                        # margin_right
+0000                                                        # indent
+2800                                                        # leading(40 = 0x0028)
+00                                                          # variable_name
+535441525400                                                # "START\0"
