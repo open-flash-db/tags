@@ -1,0 +1,5 @@
+# The output is different because the tag uses a short header
+
+c60a                                                        # 43 * 64 + 6 = 0x0ac6
+
+3d334a3d3100                                                # "=3J=1\0"
