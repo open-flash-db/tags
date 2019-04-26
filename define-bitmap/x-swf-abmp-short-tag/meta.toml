@@ -1,0 +1,1 @@
+description = "The body of this tag fits in short tag header length (48 < 63), but the spec still requires it to use a long tag header."
