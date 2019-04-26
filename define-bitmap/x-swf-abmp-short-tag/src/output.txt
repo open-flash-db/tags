@@ -1,9 +1,0 @@
-# The output is different because the tag uses a short header
-
-3009                                                        # 36 * 64 + 48 = 0x0930
-
-8111                                                        # id (4481 = 0x1181)
-05                                                          # format
-0500                                                        # width (5 = 0x0005)
-1400                                                        # height (20 = 0x0014)
-78da6360c004ff3f621743178789218b238bc1c4d1c586152ec721568e43ac1c8718541c00c6b19fed
