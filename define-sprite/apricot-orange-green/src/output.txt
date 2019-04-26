@@ -1,0 +1,34 @@
+# The output is different because it uses a shorter `PlaceObject1` instead
+# of `PlaceObject2` for the first `PlaceObject` tag.
+
+ff09                                                        # 39 * 64 + 63 = 0x09ff
+6b000000                                                    # 107 = 0x0000006b
+
+2b00                                                        # id (43 = 0x002b)
+0200                                                        # frame_count
+[
+  {                                                         # do-action
+    3f03                                                    # 12 * 64 + 63 = 0x033f
+    45000000                                                # 69 = 0x00000045
+    88110002005f706172656e7400325454703928000796020008001c96020008004e96020008004e96020008004e96020008014e960200050149129d02000500810200010000
+  }
+  {                                                         # place-object
+    0a01                                                    # 4 * 64 + 10 = 0x010a
+
+    2a00                                                    # character_id (42 = 0x002a)
+    0100                                                    # depth
+    00                                                      # matrix
+    a55e41f880                                              # color_transform
+  }
+  {                                                         # show-frame
+    4000                                                    # 1 * 64 + 0 = 0x0040
+  }
+  {                                                         # place-object
+    8806                                                    # 26 * 64 + 8 = 0x688
+    0901009efbcd0000
+  }
+  {                                                         # show-frame
+    4000                                                    # 1 * 64 + 0 = 0x0040
+  }
+  0000
+]

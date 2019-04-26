@@ -1,0 +1,56 @@
+{
+  "type": "define-sprite",
+  "id": 43,
+  "frame_count": 2,
+  "tags": [
+    {
+      "type": "do-action",
+      "actions": "88110002005f706172656e7400325454703928000796020008001c96020008004e96020008004e96020008004e96020008014e960200050149129d02000500810200010000"
+    },
+    {
+      "type": "place-object",
+      "is_update": false,
+      "depth": 1,
+      "character_id": 42,
+      "matrix": {
+        "scale_x": 65536,
+        "scale_y": 65536,
+        "rotate_skew0": 0,
+        "rotate_skew1": 0,
+        "translate_x": 0,
+        "translate_y": 0
+      },
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": 175,
+        "green_add": 65,
+        "blue_add": -15,
+        "alpha_add": 0
+      }
+    },
+    {
+      "type": "show-frame"
+    },
+    {
+      "type": "place-object",
+      "is_update": true,
+      "depth": 1,
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": -33,
+        "green_add": 60,
+        "blue_add": -24,
+        "alpha_add": 0
+      }
+    },
+    {
+      "type": "show-frame"
+    }
+  ]
+}

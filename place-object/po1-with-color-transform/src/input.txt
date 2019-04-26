@@ -1,0 +1,6 @@
+0a01                                                        # 4 * 64 + 10 = 0x010a
+
+2a00                                                        # character_id (42 = 0x002a)
+0100                                                        # depth
+00                                                          # matrix
+a55e41f880                                                  # color_transforms
