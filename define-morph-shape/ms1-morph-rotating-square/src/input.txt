@@ -32,10 +32,11 @@ bf0b                                                        # 46 * 64 + 63 = 0x0
 
   # sc: style-change, se: straight-edge, ce: curved-edge
   # hz: horizontal, vt: vertical, dg: diagonal
+  # flags { move: has_move_to, left: change_left_fill, right: change_right_fill, line: change_line_style, styles: new_tyles }
 
   2d70620c
   # 2d         70        62        0c
-  # 0{01011|01_011:10000_011000,10_00001100_                # sc{flags(has_move_to,change_left_fill,change_line_style)|11:-1000,-1000_
+  # 0{01011|01_011:10000_011000,10_00001100_                # sc{flags(move,left,line)|11:-1000,-1000_
   7d0fa1d2
   # 7d           0f         a1         d2
   # 0|1|1}11{101_0:00(01111_1010000)}1_1{1010:01(0_         # _|1|1}se{10+2:hz(2000)}se{10+2:vt(2000_
@@ -50,7 +51,7 @@ bf0b                                                        # 46 * 64 + 63 = 0x0
 
   0560020c
   # 05         60        02        0c
-  # 0{00001|01_011:00000_000000,10_00001100_                # sc{flags(has_move_to)|11:0,-1000_
+  # 0{00001|01_011:00000_000000,10_00001100_                # sc{flags(move)|11:0,-1000_
   737d0fa3
   # 73           7d       0f        a3
   # 0}11{1001:1( 01111101_000,01111_101000)}11{             # _}se{9+2:dg(1000,1000)}se{
