@@ -55,8 +55,6 @@ ca010000                                                    # 458 = 0x000001ca
   # hz: horizontal, vt: vertical, dg: diagonal
   # flags { move: has_move_to, left: change_left_fill, right: change_right_fill, line: change_line_style, styles: new_tyles }
 
-  # (bytePos: 82)
-
   1cede215
   # 1c         ed        e2        15
   # 0{00111|00_111:01101_11,100010_0|001|010}1_             # sc{flags(move,left,right)|7:55,-60|1|2}se_
