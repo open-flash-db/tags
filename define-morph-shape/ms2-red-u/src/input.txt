@@ -1,0 +1,54 @@
+3f15                                                        # 84 * 64 + 63 = 0x1f3f
+d8000000                                                    # 216 = 0x000000d8
+
+3602                                                        # id (566 = 0x0236)
+5ef42217b78700                                              # bounds
+5ef42217b78700                                              # morph_bounds
+5ef42217b78700                                              # edge_bounds
+5ef42217b78700                                              # morph_edge_bounds
+01                                                          # flags(has_scaling_strokes)
+7c000000                                                    # start_shape_size (124 = 0x0000007c)
+
+{
+  01 [                                                      # initial_styles.fill
+    13 {                                                    # focal-gradient
+      b52829412bf88200                                      # matrix
+      b528294125d50e                                        # morph_matrix
+      03                                                    # flags(3cs)
+      [
+        {
+          7c
+          ff0000ff
+          7c
+          ff0000ff
+        }
+        {
+          d1
+          990000ff
+          d1
+          990000ff
+        }
+        {
+          ff
+          ff0000ff
+          ff
+          ff0000ff
+        }
+      ]
+      ffff
+      ffff
+    }
+  ]
+  01 [                                                      # initial_styles.line
+    {
+      0000                                                  # width
+      0000                                                  # morph_width
+      0000                                                  # flags
+      00000000
+      00000000
+    }
+  ]
+  11                                                        # style_bits (1, 1)
+
+  2d57a5f7cc01229f63327d838004ce0009ea1327a78037e8a7b169a41b6600afc7c79b1f1ebc026af00c7399b1ce401474829ec5ae9fed00000557a5f730048a7d8cc9f60e0013380027a84c9e9e00dfa29ec5a6906d9802bf1f1e6c7c7af009abc031ce66c7390051d20a7b16ba7fb400
+}

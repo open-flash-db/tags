@@ -1,0 +1,374 @@
+{
+  "type": "define-morph-shape",
+  "id": 566,
+  "bounds": {
+    "x_min": -268,
+    "x_max": 272,
+    "y_min": -531,
+    "y_max": -242
+  },
+  "morph_bounds": {
+    "x_min": -268,
+    "x_max": 272,
+    "y_min": -531,
+    "y_max": -242
+  },
+  "edge_bounds": {
+    "x_min": -268,
+    "x_max": 272,
+    "y_min": -531,
+    "y_max": -242
+  },
+  "morph_edge_bounds": {
+    "x_min": -268,
+    "x_max": 272,
+    "y_min": -531,
+    "y_max": -242
+  },
+  "has_non_scaling_strokes": false,
+  "has_scaling_strokes": true,
+  "shape": {
+    "initial_styles": {
+      "fill": [
+        {
+          "type": "focal-gradient",
+          "matrix": {
+            "scale_x": 2369,
+            "scale_y": 2369,
+            "rotate_skew0": 0,
+            "rotate_skew1": 0,
+            "translate_x": -8,
+            "translate_y": -504
+          },
+          "morph_matrix": {
+            "scale_x": 2369,
+            "scale_y": 2369,
+            "rotate_skew0": 0,
+            "rotate_skew1": 0,
+            "translate_x": 234,
+            "translate_y": -242
+          },
+          "gradient": {
+            "spread": "pad",
+            "color_space": "s-rgb",
+            "colors": [
+              {
+                "ratio": 124,
+                "morph_ratio": 124,
+                "color": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "morph_color": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                }
+              },
+              {
+                "ratio": 209,
+                "morph_ratio": 209,
+                "color": {
+                  "r": 153,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "morph_color": {
+                  "r": 153,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                }
+              },
+              {
+                "ratio": 255,
+                "morph_ratio": 255,
+                "color": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "morph_color": {
+                  "r": 255,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                }
+              }
+            ]
+          },
+          "focal_point": -1,
+          "morph_focal_point": -1
+        }
+      ],
+      "line": [
+        {
+          "width": 0,
+          "morph_width": 0,
+          "start_cap": "round",
+          "end_cap": "round",
+          "join": {
+            "type": "round"
+          },
+          "no_h_scale": false,
+          "no_v_scale": false,
+          "no_close": false,
+          "pixel_hinting": false,
+          "fill": {
+            "type": "solid",
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            },
+            "morph_color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+            }
+          }
+        }
+      ]
+    },
+    "records": [
+      {
+        "type": "style-change",
+        "move_to": {
+          "x": -268,
+          "y": -261
+        },
+        "morph_move_to": {
+          "x": -268,
+          "y": -261
+        },
+        "left_fill": 1,
+        "line_style": 1
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 79,
+          "y": -190
+        },
+        "morph_delta": {
+          "x": 79,
+          "y": -190
+        },
+        "control_delta": {
+          "x": 0,
+          "y": -111
+        },
+        "morph_control_delta": {
+          "x": 0,
+          "y": -111
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 191,
+          "y": -80
+        },
+        "morph_delta": {
+          "x": 191,
+          "y": -80
+        },
+        "control_delta": {
+          "x": 79,
+          "y": -80
+        },
+        "morph_control_delta": {
+          "x": 79,
+          "y": -80
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 191,
+          "y": 80
+        },
+        "morph_delta": {
+          "x": 191,
+          "y": 80
+        },
+        "control_delta": {
+          "x": 112,
+          "y": 0
+        },
+        "morph_control_delta": {
+          "x": 112,
+          "y": 0
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 79,
+          "y": 190
+        },
+        "morph_delta": {
+          "x": 79,
+          "y": 190
+        },
+        "control_delta": {
+          "x": 79,
+          "y": 79
+        },
+        "morph_control_delta": {
+          "x": 79,
+          "y": 79
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 0,
+          "y": 19
+        },
+        "morph_delta": {
+          "x": 0,
+          "y": 19
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -76,
+          "y": 0
+        },
+        "morph_delta": {
+          "x": -76,
+          "y": 0
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 1,
+          "y": -19
+        },
+        "morph_delta": {
+          "x": 1,
+          "y": -19
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -57,
+          "y": -138
+        },
+        "morph_delta": {
+          "x": -57,
+          "y": -138
+        },
+        "control_delta": {
+          "x": 0,
+          "y": -81
+        },
+        "morph_control_delta": {
+          "x": 0,
+          "y": -81
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -138,
+          "y": -57
+        },
+        "morph_delta": {
+          "x": -138,
+          "y": -57
+        },
+        "control_delta": {
+          "x": -57,
+          "y": -57
+        },
+        "morph_control_delta": {
+          "x": -57,
+          "y": -57
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -138,
+          "y": 57
+        },
+        "morph_delta": {
+          "x": -138,
+          "y": 57
+        },
+        "control_delta": {
+          "x": -81,
+          "y": 0
+        },
+        "morph_control_delta": {
+          "x": -81,
+          "y": 0
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -57,
+          "y": 138
+        },
+        "morph_delta": {
+          "x": -57,
+          "y": 138
+        },
+        "control_delta": {
+          "x": -57,
+          "y": 57
+        },
+        "morph_control_delta": {
+          "x": -57,
+          "y": 57
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": 1,
+          "y": 19
+        },
+        "morph_delta": {
+          "x": 1,
+          "y": 19
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -75,
+          "y": 0
+        },
+        "morph_delta": {
+          "x": -75,
+          "y": 0
+        }
+      },
+      {
+        "type": "edge",
+        "delta": {
+          "x": -1,
+          "y": -19
+        },
+        "morph_delta": {
+          "x": -1,
+          "y": -19
+        }
+      }
+    ]
+  }
+}
