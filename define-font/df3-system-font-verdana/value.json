@@ -1,0 +1,11 @@
+{
+  "type": "define-font",
+  "id": 3775,
+  "font_name": "Verdana",
+  "is_bold": false,
+  "is_italic": false,
+  "is_ansi": false,
+  "is_small": false,
+  "is_shift_jis": false,
+  "language": "latin"
+}

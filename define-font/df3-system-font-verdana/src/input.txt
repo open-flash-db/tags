@@ -1,0 +1,13 @@
+d012                                                        # 75 * 64 + 16 = 0x12d0
+
+bf0e                                                        # id
+00                                                          # flags
+01                                                          # language
+07                                                          # font_name_length
+56657264616e61                                              # "Verdana"
+0000                                                        # glyph_count
+[                                                           # offsets
+  0200                                                      # [end] 2 = 0x0002
+]
+[]                                                          # shapes
+[]                                                          # code_units
