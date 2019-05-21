@@ -7,6 +7,7 @@
   "is_ansi": false,
   "is_small": false,
   "is_shift_jis": false,
+  "em_square_size": 1024,
   "language": "latin",
   "glyphs": [
     {
