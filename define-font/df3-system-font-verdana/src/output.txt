@@ -7,7 +7,7 @@ bf0e                                                        # id
 04                                                          # flags(use_wide_codes)
 01                                                          # language
 08                                                          # font_name_length
-56657264616e6100                                            # "Verdana"
+56657264616e6100                                            # "Verdana\0"
 0000                                                        # glyph_count
 []                                                          # offsets
 []                                                          # shapes
