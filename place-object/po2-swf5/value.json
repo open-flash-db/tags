@@ -1,0 +1,40 @@
+{
+  "type": "place-object",
+  "is_update": false,
+  "depth": 64,
+  "character_id": 82,
+  "matrix": {
+    "scale_x": 65536,
+    "scale_y": 65536,
+    "rotate_skew0": 0,
+    "rotate_skew1": 0,
+    "translate_x": -4586,
+    "translate_y": 2950
+  },
+  "clip_actions": [
+    {
+      "events": {
+        "key_up": false,
+        "key_down": false,
+        "mouse_up": false,
+        "mouse_down": false,
+        "mouse_move": false,
+        "unload": false,
+        "enter_frame": false,
+        "load": true,
+        "drag_over": false,
+        "roll_out": false,
+        "roll_over": false,
+        "release_outside": false,
+        "release": false,
+        "press": false,
+        "initialize": false,
+        "data": false,
+        "construct": false,
+        "key_press": false,
+        "drag_out": false
+      },
+      "actions": "963f00006977616e740000396465336561636436373133633038326530653939333330353339623963663866303930323934623836396262396664643233303133001d961200006d79626c6f6200007a65736b6a74796f001d00"
+    }
+  ]
+}
