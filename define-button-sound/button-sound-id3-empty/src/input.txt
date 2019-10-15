@@ -1,0 +1,5 @@
+0300                                                       # button_id
+0000                                                       # over_up_to_idle
+0000                                                       # idle_to_over_up
+0000                                                       # over_up_to_over_down
+0000                                                       # over_down_to_over_up
