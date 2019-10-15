@@ -1,22 +1,22 @@
-d601                                                # 7 * 64 + 22 = 0x01D6
+d601                                                        # 7 * 64 + 22 = 0x01d6
 
-3409                                                # id (2356 = 0x0934)
-[                                                   # characters
+3409                                                        # id (2356 = 0x0934)
+[                                                           # characters
   {
-    01                                              # flags(state_up)
-    ab0e                                            # id (3755 = 0x0eab)
-    0100                                            # depth
-    c9000016ecc0                                    # matrix
+    01                                                      # flags(state_up)
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    c9000016ecc0                                            # matrix
   }
   {
-    0e                                              # flags
-    ab0e                                            # id (3755 = 0x0eab)
-    0100                                            # depth
-    00                                              # matrix
+    0e                                                      # flags
+    ab0e                                                    # id (3755 = 0x0eab)
+    0100                                                    # depth
+    00                                                      # matrix
   }
   00
 ]
-[                                                   # actions
-  06                                                # play
-  00                                                # end
+[                                                           # actions
+  06                                                        # play
+  00                                                        # end
 ]
