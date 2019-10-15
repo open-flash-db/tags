@@ -1,0 +1,6 @@
+c303                                                        # 15 * 64 + 3 = 0x03c3
+
+1200                                                        # sound_id (18 = 0x0012)
+{                                                           # sound_info
+  10                                                        # flags(sync_no_multiple)
+}

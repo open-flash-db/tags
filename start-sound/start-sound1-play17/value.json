@@ -1,0 +1,31 @@
+{
+  "type": "start-sound",
+  "sound_id": 17,
+  "sound_info": {
+    "sync_stop": false,
+    "sync_no_multiple": true,
+    "loop_count": 10,
+    "envelope_records": [
+      {
+        "pos44": 0,
+        "left_level": 0,
+        "right_level": 0
+      },
+      {
+        "pos44": 106398,
+        "left_level": 8192,
+        "right_level": 8192
+      },
+      {
+        "pos44": 212796,
+        "left_level": 16384,
+        "right_level": 16384
+      },
+      {
+        "pos44": 2127960,
+        "left_level": 16384,
+        "right_level": 16384
+      }
+    ]
+  }
+}

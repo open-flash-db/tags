@@ -1,0 +1,8 @@
+{
+  "type": "start-sound",
+  "sound_id": 17,
+  "sound_info": {
+    "sync_stop": true,
+    "sync_no_multiple": false
+  }
+}
