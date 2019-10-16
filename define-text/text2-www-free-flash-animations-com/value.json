@@ -1,0 +1,146 @@
+{
+  "type": "define-text",
+  "id": 12,
+  "bounds": {
+    "x_min": -2757,
+    "x_max": 2757,
+    "y_min": -220,
+    "y_max": 219
+  },
+  "matrix": {
+    "scale_x": 65536,
+    "scale_y": 65536,
+    "rotate_skew0": 0,
+    "rotate_skew1": 0,
+    "translate_x": 0,
+    "translate_y": 0
+  },
+  "records": [
+    {
+      "font_id": 1,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 204,
+        "a": 140
+      },
+      "offset_x": -2274,
+      "offset_y": 144,
+      "font_size": 360,
+      "entries": [
+        {
+          "index": 0,
+          "advance": 241
+        },
+        {
+          "index": 0,
+          "advance": 241
+        },
+        {
+          "index": 0,
+          "advance": 241
+        },
+        {
+          "index": 1,
+          "advance": 67
+        },
+        {
+          "index": 2,
+          "advance": 104
+        },
+        {
+          "index": 3,
+          "advance": 129
+        },
+        {
+          "index": 4,
+          "advance": 184
+        },
+        {
+          "index": 4,
+          "advance": 184
+        },
+        {
+          "index": 5,
+          "advance": 106
+        },
+        {
+          "index": 2,
+          "advance": 104
+        },
+        {
+          "index": 6,
+          "advance": 99
+        },
+        {
+          "index": 7,
+          "advance": 181
+        },
+        {
+          "index": 8,
+          "advance": 170
+        },
+        {
+          "index": 9,
+          "advance": 189
+        },
+        {
+          "index": 5,
+          "advance": 106
+        },
+        {
+          "index": 7,
+          "advance": 181
+        },
+        {
+          "index": 10,
+          "advance": 189
+        },
+        {
+          "index": 11,
+          "advance": 99
+        },
+        {
+          "index": 12,
+          "advance": 277
+        },
+        {
+          "index": 7,
+          "advance": 182
+        },
+        {
+          "index": 13,
+          "advance": 109
+        },
+        {
+          "index": 11,
+          "advance": 99
+        },
+        {
+          "index": 14,
+          "advance": 184
+        },
+        {
+          "index": 10,
+          "advance": 189
+        },
+        {
+          "index": 1,
+          "advance": 66
+        },
+        {
+          "index": 15,
+          "advance": 178
+        },
+        {
+          "index": 14,
+          "advance": 185
+        },
+        {
+          "index": 12,
+          "advance": 0
+        }
+      ]
+    }
+  ]
+}
