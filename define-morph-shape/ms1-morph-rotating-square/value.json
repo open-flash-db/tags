@@ -13,8 +13,8 @@
     "y_min": -1600,
     "y_max": 1600
   },
-  "has_non_scaling_strokes": false,
   "has_scaling_strokes": false,
+  "has_non_scaling_strokes": false,
   "shape": {
     "initial_styles": {
       "fill": [

@@ -25,8 +25,8 @@
     "y_min": -531,
     "y_max": -242
   },
-  "has_non_scaling_strokes": false,
   "has_scaling_strokes": true,
+  "has_non_scaling_strokes": false,
   "shape": {
     "initial_styles": {
       "fill": [
