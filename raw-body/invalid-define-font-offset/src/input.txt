@@ -1,2 +1,7 @@
 # SWF version: 0xb4
-840283830300
+8402                                                        # 10 * 64 + 4 = 0x0284
+
+8383                                                        # id (33667 = 0x8383)
+[                                                           # offsets
+  0300                                                      # [  0]    3 = 0x0003 (would correspond to "1.5 glyphs")
+]

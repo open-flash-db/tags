@@ -1,4 +1,4 @@
 # SWF version: 0x01
-0106
+0106                                                        # 24 * 64 + 1 = 0x0601
 
-86
+86                                                          # Illegal UTF-8 byte
