@@ -1,0 +1,6 @@
+# SWF version: 0x00
+# The output is different because it uses a long header (required for the code 6)
+bf01                                                        # 6 * 64 + 63 = 0x01bf
+03000000                                                    # 3 = 0x00000003
+
+000007

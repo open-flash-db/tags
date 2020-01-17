@@ -1,0 +1,3 @@
+# SWF version: 0x30
+# The output is different because it uses a long header (required for the code 21)
+7f0508000000c308474946383961
