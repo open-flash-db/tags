@@ -1,10 +1,12 @@
+# The output is different because it uses a shorter `index bits` value
+
 7f08                                                        # 33 * 64 + 63 = 0x087f
-51000000                                                    # 81 = 0x00000051
+4d000000                                                    # 77 = 0x0000004d
 
 0c00                                                        # id (12 = 0x000c)
 6d4ed58bf2406d80                                            # bounds
 00                                                          # matrix
-05                                                          # index_bits (5 = 0x05)
+04                                                          # index_bits (4 = 0x04)
 0a                                                          # advance_bits (10 = 0x0a)
 [
   {
@@ -15,7 +17,7 @@
     9000                                                    # offset_y (144 = 0x0090)
     6801                                                    # font_size (360 = 0x0168)
     1c [                                                    # entries (28 = 0x1c)
-      01e203c4078844310d0320485c10b828d421a0c319cb5415492f4a351cb5517ab18d88a9cb668dab18dc5c28bd0884f2c9c5cb0000
+      03c40f103c444321a0c8142e10b851a8868618dcb582aa4bd51a9cb5a2f6c63c455cb6d1b6c63e2e28bd110bcb2e2e7000
     ]
   }
   00
