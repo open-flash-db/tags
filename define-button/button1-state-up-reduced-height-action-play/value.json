@@ -18,6 +18,16 @@
         "translate_x": 0,
         "translate_y": 0
       },
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": 0,
+        "green_add": 0,
+        "blue_add": 0,
+        "alpha_add": 0
+      },
       "filters": [],
       "blend_mode": "Normal"
     },
@@ -35,6 +45,16 @@
         "rotate_skew1": 0,
         "translate_x": 0,
         "translate_y": 0
+      },
+      "color_transform": {
+        "red_mult": 256,
+        "green_mult": 256,
+        "blue_mult": 256,
+        "alpha_mult": 256,
+        "red_add": 0,
+        "green_add": 0,
+        "blue_add": 0,
+        "alpha_add": 0
       },
       "filters": [],
       "blend_mode": "Normal"
