@@ -2,7 +2,7 @@
   "type": "DefineButton",
   "id": 3756,
   "track_as_menu": false,
-  "characters": [
+  "records": [
     {
       "state_up": true,
       "state_over": false,
