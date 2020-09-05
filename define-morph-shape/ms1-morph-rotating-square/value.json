@@ -1,5 +1,5 @@
 {
-  "type": "define-morph-shape",
+  "type": "DefineMorphShape",
   "id": 1,
   "bounds": {
     "x_min": -1000,
@@ -19,7 +19,7 @@
     "initial_styles": {
       "fill": [
         {
-          "type": "solid",
+          "type": "Solid",
           "color": {
             "r": 255,
             "g": 0,
@@ -38,17 +38,17 @@
         {
           "width": 0,
           "morph_width": 1200,
-          "start_cap": "round",
-          "end_cap": "round",
+          "start_cap": "Round",
+          "end_cap": "Round",
           "join": {
-            "type": "round"
+            "type": "Round"
           },
           "no_h_scale": false,
           "no_v_scale": false,
           "no_close": false,
           "pixel_hinting": false,
           "fill": {
-            "type": "solid",
+            "type": "Solid",
             "color": {
               "r": 0,
               "g": 0,
@@ -67,7 +67,7 @@
     },
     "records": [
       {
-        "type": "style-change",
+        "type": "StyleChange",
         "move_to": {
           "x": -1000,
           "y": -1000
@@ -80,7 +80,7 @@
         "line_style": 1
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 2000,
           "y": 0
@@ -91,7 +91,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 0,
           "y": 2000
@@ -102,7 +102,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -2000,
           "y": 0
@@ -113,7 +113,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 0,
           "y": -2000

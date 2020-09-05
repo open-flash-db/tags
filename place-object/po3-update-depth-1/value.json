@@ -1,5 +1,5 @@
 {
-  "type": "place-object",
+  "type": "PlaceObject",
   "is_update": true,
   "depth": 1,
   "matrix": {
@@ -12,7 +12,7 @@
   },
   "filters": [
     {
-      "filter": "color-matrix",
+      "filter": "ColorMatrix",
       "matrix": [
         -0.5895693898200989,
         1.3649629354476929,

@@ -1,5 +1,5 @@
 {
-  "type": "start-sound",
+  "type": "StartSound",
   "sound_id": 18,
   "sound_info": {
     "sync_stop": false,

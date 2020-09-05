@@ -1,7 +1,7 @@
 {
-  "type": "define-font-align-zones",
+  "type": "DefineFontAlignZones",
   "font_id": 1,
-  "csm_table_hint": "medium",
+  "csm_table_hint": "Medium",
   "zones": [
     {
       "data": [

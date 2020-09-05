@@ -1,5 +1,5 @@
 {
-  "type": "place-object",
+  "type": "PlaceObject",
   "is_update": false,
   "depth": 1,
   "character_id": 42,

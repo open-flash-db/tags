@@ -1,5 +1,5 @@
 {
-  "type": "define-button",
+  "type": "DefineButton",
   "id": 2356,
   "track_as_menu": false,
   "characters": [
@@ -19,7 +19,7 @@
         "translate_y": 0
       },
       "filters": [],
-      "blend_mode": "normal"
+      "blend_mode": "Normal"
     },
     {
       "state_up": false,
@@ -37,7 +37,7 @@
         "translate_y": 0
       },
       "filters": [],
-      "blend_mode": "normal"
+      "blend_mode": "Normal"
     }
   ],
   "actions": [

@@ -1,5 +1,5 @@
 {
-  "type": "define-font-info",
+  "type": "DefineFontInfo",
   "font_id": 58,
   "font_name": "Comic Sans MS",
   "is_bold": true,
@@ -7,7 +7,7 @@
   "is_ansi": false,
   "is_shift_jis": true,
   "is_small": false,
-  "language": "auto",
+  "language": "Auto",
   "code_units": [
     58,
     69,

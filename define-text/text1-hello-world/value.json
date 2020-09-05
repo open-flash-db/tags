@@ -1,5 +1,5 @@
 {
-  "type": "define-text",
+  "type": "DefineText",
   "id": 2,
   "bounds": {
     "x_min": 10,

@@ -1,5 +1,5 @@
 {
-  "type": "define-dynamic-text",
+  "type": "DefineDynamicText",
   "id": 3836,
   "bounds": {
     "x_min": 662,
@@ -25,7 +25,7 @@
     "b": 255,
     "a": 255
   },
-  "align": "center",
+  "align": "Center",
   "margin_left": 0,
   "margin_right": 0,
   "indent": 0,

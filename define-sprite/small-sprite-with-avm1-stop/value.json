@@ -1,10 +1,10 @@
 {
-  "type": "define-sprite",
+  "type": "DefineSprite",
   "id": 12,
   "frame_count": 12,
   "tags": [
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": false,
       "depth": 2,
       "character_id": 1,
@@ -18,108 +18,108 @@
       }
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 2
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 3
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 4
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 5
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 6
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 7
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 8
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 9
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 10
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "place-object",
+      "type": "PlaceObject",
       "is_update": true,
       "depth": 2,
       "character_id": 11
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     },
     {
-      "type": "remove-object",
+      "type": "RemoveObject",
       "depth": 2
     },
     {
-      "type": "do-action",
+      "type": "DoAction",
       "actions": "0700"
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     }
   ]
 }

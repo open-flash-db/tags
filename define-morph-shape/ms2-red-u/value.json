@@ -1,5 +1,5 @@
 {
-  "type": "define-morph-shape",
+  "type": "DefineMorphShape",
   "id": 566,
   "bounds": {
     "x_min": -268,
@@ -31,7 +31,7 @@
     "initial_styles": {
       "fill": [
         {
-          "type": "focal-gradient",
+          "type": "FocalGradient",
           "matrix": {
             "scale_x": 2369,
             "scale_y": 2369,
@@ -49,8 +49,8 @@
             "translate_y": -242
           },
           "gradient": {
-            "spread": "pad",
-            "color_space": "s-rgb",
+            "spread": "Pad",
+            "color_space": "SRgb",
             "colors": [
               {
                 "ratio": 124,
@@ -110,17 +110,17 @@
         {
           "width": 0,
           "morph_width": 0,
-          "start_cap": "round",
-          "end_cap": "round",
+          "start_cap": "Round",
+          "end_cap": "Round",
           "join": {
-            "type": "round"
+            "type": "Round"
           },
           "no_h_scale": false,
           "no_v_scale": false,
           "no_close": false,
           "pixel_hinting": false,
           "fill": {
-            "type": "solid",
+            "type": "Solid",
             "color": {
               "r": 0,
               "g": 0,
@@ -139,7 +139,7 @@
     },
     "records": [
       {
-        "type": "style-change",
+        "type": "StyleChange",
         "move_to": {
           "x": -268,
           "y": -261
@@ -152,7 +152,7 @@
         "line_style": 1
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 79,
           "y": -190
@@ -171,7 +171,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 191,
           "y": -80
@@ -190,7 +190,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 191,
           "y": 80
@@ -209,7 +209,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 79,
           "y": 190
@@ -228,7 +228,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 0,
           "y": 19
@@ -239,7 +239,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -76,
           "y": 0
@@ -250,7 +250,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 1,
           "y": -19
@@ -261,7 +261,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -57,
           "y": -138
@@ -280,7 +280,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -138,
           "y": -57
@@ -299,7 +299,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -138,
           "y": 57
@@ -318,7 +318,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -57,
           "y": 138
@@ -337,7 +337,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": 1,
           "y": 19
@@ -348,7 +348,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -75,
           "y": 0
@@ -359,7 +359,7 @@
         }
       },
       {
-        "type": "edge",
+        "type": "Edge",
         "delta": {
           "x": -1,
           "y": -19

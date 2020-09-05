@@ -1,5 +1,5 @@
 {
-  "type": "define-font",
+  "type": "DefineFont",
   "id": 3775,
   "font_name": "Verdana",
   "is_bold": false,
@@ -8,5 +8,5 @@
   "is_small": false,
   "is_shift_jis": false,
   "em_square_size": 20480,
-  "language": "latin"
+  "language": "Latin"
 }

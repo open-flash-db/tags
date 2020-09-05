@@ -1,5 +1,5 @@
 {
-  "type": "define-bitmap",
+  "type": "DefineBitmap",
   "id": 4481,
   "width": 5,
   "height": 20,
